@@ -8,7 +8,7 @@ title: Accueil
 
 Bienvenue dans la documentation du projet du bar à cocktail autonome. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
-![Photo du bar](images/photo%20bar.png)
+![Photo du bar](images/poster.jng)
 
 ## À propos du Projet
 Dans les environnements festifs ou événementiels, la rapidité et la précision du service sont primordiales. Ce projet a pour objectif d’automatiser la distribution de boissons à l’aide d’un système motorisé performant, assurant un dosage fiable, régulier et reproductible.
