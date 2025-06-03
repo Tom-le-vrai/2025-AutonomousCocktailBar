@@ -23,5 +23,3 @@ Ici vous publierez le poster de votre projet.
 <video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
 
 ---
-
-![photo bar](https://github.com/user-attachments/assets/61c75eec-f46a-4de7-bc0e-1ab3f05e10f5)
