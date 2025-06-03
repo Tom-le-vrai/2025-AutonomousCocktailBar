@@ -15,8 +15,7 @@ Dans les environnements festifs ou événementiels, la rapidité et la précisio
 Ce projet consiste à créer une machine capable de verser automatiquement une boisson, répondant aux exigences de rapidité, d’hygiène et de précision dans les environnements festifs ou événementiels. Le système repose sur l’utilisation d’un moteur pas à pas, permettant de contrôler avec précision la position du mécanisme de distribution. L’objectif est de garantir un volume constant de 50 mL à chaque service, en assurant un dosage fiable et reproductible. L’ensemble sera construit sur une structure solide et modulaire en profilés aluminium, afin de faciliter le montage, la maintenance et les éventuelles évolutions du dispositif.
 
 ## Poster
-
-Ici vous publierez le poster de votre projet.
+Voici notre poster de notre projet 
 
 ![POSTER-TEMPLATE-PROJET I3 (1) pptx](https://github.com/user-attachments/assets/f09ac224-bd4e-4838-9068-0cab8fcdbee6)
 
