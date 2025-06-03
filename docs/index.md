@@ -18,7 +18,7 @@ Ce projet consiste à créer une machine capable de verser automatiquement une b
 
 Ici vous publierez le poster de votre projet.
 
-![Poster projet](images/poster.jpg)
+![Poster projet](worflows/POSTER-TEMPLATE-PROJETI3(1).pptx.jpg)
 
 ## Vidéo
 <video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
