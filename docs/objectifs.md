@@ -34,6 +34,7 @@ Construire une structure solide et modulaire en profilés aluminium.
 # Existant
 Voici quelques projets déjà existant:
 
+! [bar](photo%20bar.png)
 
 Nous nous sommes inspirés de ces différents dans la conception, la modélisation et aussir pour comprendre comment le coder.
 
