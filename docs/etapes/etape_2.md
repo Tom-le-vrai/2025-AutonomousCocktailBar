@@ -5,21 +5,50 @@ parent: Etapes de fabrication
 nav_order: 2
 ---
 
-# Assemblage
+# Étape 2 – Assemblage
+Après la préparation minutieuse des matériaux, l’étape suivante consiste à assembler les différentes pièces mécaniques et électroniques du système. Cette phase est essentielle pour garantir la stabilité et la fonctionnalité globale de l’ensemble.
 
-Après la préparation des matériaux, l'étape suivante est l'assemblage.
+# Étapes d’assemblage
+Organisation
 
-## Étapes d'Assemblage
+Disposez tous les composants (mécaniques et électroniques) sur un espace de travail dégagé.
 
-1. **Organisation** : Organisez tous les composants préparés.
-2. **Assemblage Initial** : Commencez par assembler les pièces principales.
-3. **Fixation** : Fixez solidement les pièces ensemble en utilisant les outils appropriés.
+Classez les éléments par type : profilés, vis, pièces imprimées, courroie, électronique.
 
-## Vérifications à Effectuer
+Assemblage initial
 
-- Assurez-vous que toutes les pièces sont correctement alignées.
-- Vérifiez la stabilité et la solidité de l'assemblage.
+Montez la structure principale en fixant les profilés aluminium à l’aide des équerres et visseries.
 
-## Problèmes Communs et Solutions
+Installez les roues V-slot sur le support de verre.
 
-- Si des pièces ne s'emboîtent pas correctement, vérifiez leur alignement et leur dimension
+Positionnez la courroie crantée dans la rainure du rail et autour de la poulie.
+
+Fixation
+
+Fixez fermement le moteur pas à pas à son support en veillant à l’alignement de la poulie avec la courroie.
+
+Vissez solidement le support de verre sur le chariot mobile.
+
+Raccordez le driver TMC2209 au moteur, puis connectez-le à l’ESP32 selon le schéma de câblage.
+
+# Vérifications à effectuer
+Alignement :
+
+Vérifiez que la poulie et la courroie sont bien alignées pour éviter toute déviation lors du déplacement.
+
+ Stabilité :
+
+Testez la rigidité de la structure en appliquant une légère pression.
+
+Assurez-vous que le support de verre glisse sans accrocs sur le rail.
+
+ Connexion :
+
+Contrôlez chaque branchement électrique avec un multimètre (continuité, polarité, court-circuit).
+
+| Problème                        | Cause probable                           | Solution                                          |
+| ------------------------------- | ---------------------------------------- | ------------------------------------------------- |
+| Courroie qui saute ou se détend | Mauvaise tension ou mauvais alignement   | Ajuster la tension, réaligner la poulie           |
+| Support de verre qui coince     | Roues mal montées ou rail sale           | Resserrer les roues, nettoyer le rail             |
+| Moteur ne tourne pas            | Mauvais câblage ou manque d’alimentation | Revoir le câblage, tester la tension              |
+| Vibrations anormales            | Mauvais serrage des vis ou frottements   | Resserrer toutes les fixations, vérifier les axes |
