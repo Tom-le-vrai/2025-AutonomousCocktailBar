@@ -34,18 +34,38 @@ Construire une structure solide et modulaire en profilés aluminium.
 # Existant
 Voici quelques projets déjà existant:
 
+<<<<<<< HEAD
+=======
 ! [bar](photo%20bar.png)
+>>>>>>> f793973a892811aae4919dc6805b6e58b2f8fbb2
 
 Nous nous sommes inspirés de ces différents dans la conception, la modélisation et aussir pour comprendre comment le coder.
 
 # Cahier des Charges
+<<<<<<< HEAD
+Notre projet doit pouvoir servir automatiquement une boisson à l’aide d’une application. Pour ceci, nous devons respecter ces différentes consignes:
+=======
  Cahier des charges – Projet de bar à cocktail automatique
 1. Contexte du projet
 Le projet consiste à concevoir un bar à cocktail automatique, capable de préparer des boissons de manière autonome. Ce système vise à simplifier la préparation de cocktails en assurant précision, rapidité, et interaction simple via une interface utilisateur connectée. Ce projet s’inscrit dans une démarche d’automatisation ludique, combinant électronique, programmation et mécanique.
+>>>>>>> f793973a892811aae4919dc6805b6e58b2f8fbb2
 
+<<<<<<< HEAD
+Distribution automatique de boisson
+=======
 2. Objectifs fonctionnels
 Le système doit être capable de :
+>>>>>>> f793973a892811aae4919dc6805b6e58b2f8fbb2
 
+<<<<<<< HEAD
+Dosage précis (50 mL)
+
+Rapidité d’exécution
+
+Structure robuste et modulaire
+
+Possibilité d’évolution (plusieurs boissons, interface utilisate
+=======
 Déplacer automatiquement un verre le long d’un rail.
 
 Distribuer des doses précises de différentes boissons.
